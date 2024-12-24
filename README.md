@@ -74,3 +74,7 @@ To provide a detailed analysis of hotel booking cancellations using Excel. The g
 ## Dashboard Review
 
 ![Hotel_Booking_Dash](https://github.com/user-attachments/assets/8b1a53e6-3163-414b-bf2a-83a06e1649be)
+
+## Conclusion
+
+This analysis highlights the primary factors driving hotel booking cancellations. By addressing patterns such as specific room types, and seasonal trends, hotels can take actionable steps to reduce cancellations and improve revenue.
