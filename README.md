@@ -5,6 +5,7 @@ To provide a detailed analysis of hotel booking cancellations using Excel. The g
 
 ## Dataset Used
 
+<a href="https://github.com/Sagar472820/Hotel_Booking_Cancellation_Excel/blob/main/Hotel_Booking_Dash.xlsx"> Hotel_Booking_Cancellation_Report </a>
 
 ## Data Fields Overview
 
@@ -68,6 +69,7 @@ To provide a detailed analysis of hotel booking cancellations using Excel. The g
 
 ## Dashboard Interaction
 
+<a href="https://github.com/Sagar472820/Hotel_Booking_Cancellation_Excel/blob/main/Hotel_Booking_Dash.xlsx"> Hotel_Booking_Cancellation_Dashboard </a>
 
 ## Dashboard Review
 
